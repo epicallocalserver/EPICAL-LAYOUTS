@@ -1,0 +1,5 @@
+{
+  "name": "EPICAL LAYOUTS CALCULATOR",
+  "description": "A VLSI engineering calculator to compute metal current capacity and routing impedance using metal width, length, current density and sheet resistance values.",
+  "requestFramePermissions": []
+}
